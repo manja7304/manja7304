@@ -1,16 +1,16 @@
 # Hello, World! 🌟
 
-### Welcome to Manjunath K G's GitHub Profile! 👋
+### Welcome to My GitHub Profile! 👋
 
-I'm Manjunath, a passionate software enthusiast and a second-year undergraduate student from Bengaluru, India. 🇮🇳 I'm on a journey to explore the vast world of technology, constantly learning and growing with each line of code. 💻✨
+I'm Manjunath K G, a passionate software enthusiast and a second-year undergraduate student from Bengaluru, India. 🇮🇳 I'm on a journey to explore the vast world of technology, constantly learning and growing with each line of code. 💻✨
 
 ![Programmer](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-> "Talk is cheap. Show me the code." - Linus Torvalds
+> "There is always one more bug to fix." - Anonymous!!!
 
 ## About Me ℹ️
 
-- 🎓 Studying Bachelor of Computer Applications (BCA) at the University of Bengaluru.
+- 🎓 Studying Bachelor's of Computer Applications (BCA) at the University of Bengaluru.
 - 💡 Fervently interested in software development and exploring new technologies.
 - 🚀 Seeking opportunities to contribute as a software engineering intern or trainee.
 - 🌱 Currently diving deep into the fascinating realm of Web3 technology.
