@@ -1,4 +1,5 @@
 # Hello, World! 🌟
+![My Profile Picture]()
 
 ### Welcome to My GitHub Profile! 👋
 
