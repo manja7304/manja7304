@@ -5,6 +5,8 @@
 I'm Manjunath K G, a passionate software enthusiast and a second-year undergraduate student from Bengaluru, India. 🇮🇳 I'm on a journey to explore the vast world of technology, constantly learning and growing with each line of code. 💻✨
 
 ![Programmer](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Programmer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYwaTFwZGZobnUzeTF0dW5wc2ZsdGl4dzRkdnJvczZvZDNzdnNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif)
+
 
 > "There is always one more bug to fix." - Anonymous!!!
 
