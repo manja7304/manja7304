@@ -1,8 +1,8 @@
 # Hello, World! 🌟
 
-### Welcome to Manjunath K G's GitHub Profile! 👋
+### Welcome to my GitHub Profile! 👋
 
-I'm Manjunath, a passionate software enthusiast and a second-year undergraduate student from Bengaluru, India. 🇮🇳 I'm on a journey to explore the vast world of technology, constantly learning and growing with each line of code. 💻✨
+I'm Manjunath K G, a passionate software enthusiast and a second-year undergraduate student from Bengaluru, India. 🇮🇳 I'm on a journey to explore the vast world of technology, constantly learning and growing with each line of code. 💻✨
 
 ## About Me ℹ️
 
