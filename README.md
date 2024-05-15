@@ -8,7 +8,7 @@ I'm Manjunath K G, a passionate software enthusiast and a second-year undergradu
 ![Programmer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYwaTFwZGZobnUzeTF0dW5wc2ZsdGl4dzRkdnJvczZvZDNzdnNkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif)
 
 
-> "There is always one more bug to fix." - Anonymous!!!
+> "Programmer's don't make mistakes, they just have unexpected features." - Anonymous!!!
 
 ## About Me ℹ️
 
