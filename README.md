@@ -47,7 +47,6 @@ I'm Manjunath K G, a passionate software enthusiast and a second-year undergradu
 - 💬 **Strong Communication:** Effective communicator with strong analytical and problem-solving skills.
 - 👥 **Team Player:** Thrive in collaborative environments, actively engaging in teamwork and brainstorming.
 
-![My Profile Picture](https://github.com/manja7304/manja7304/blob/main/programmer-quotes-2560x1440-10620.png?raw=true)
 ![Code](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 > "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
