@@ -14,7 +14,7 @@
 # cat /etc/passwd | grep manjunathkg07
 👨‍💻 BCA Graduate | Offensive Security Enthusiast | CEH Aspirant
 📍 Bengaluru, India
-📚 Focus: Red Teaming, Exploit Dev, CTFs, Scripting, Web Exploits, Linux & Windows PrivEsc
+📚 Focus: Software Development, Red Teaming, Exploit Dev, CTFs, Scripting, Web Exploits, Linux & Windows PrivEsc
 🔍 Mission: Hunt bugs, exploit weaknesses, break stuff... then patch.
 
 Languages:
