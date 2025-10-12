@@ -154,7 +154,7 @@ impact: "Enhanced security posture through comprehensive pentesting"
 <div align="center">
 
 ### 🤖 Intelligent HR Candidate Profiling System
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304/Intelligent-Chat-Interface)
 
 **AI-powered recruitment automation platform**
 
@@ -191,7 +191,7 @@ Database: SQLite
 ---
 
 ### 🕷️ AI-Powered Web Scraper
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304/AI-WEB-SCRAPING)
 
 **Smart data extraction with LLM enhancement**
 
@@ -229,7 +229,7 @@ Language: Python
 ---
 
 ### 📈 Dockerized Stock Data Pipeline
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304/stock-pipeline)
 
 **Automated financial data ETL system**
 
