@@ -25,8 +25,7 @@ class Manjunath:
         self.current_focus = [
             "AI-driven Security Compliance",
             "LLM Fine-tuning & Integration",
-            "Penetration Testing",
-            "Data Engineering Pipelines"
+            "Security Standards & Practises"
         ]
         self.philosophy = "Code with purpose. Secure by design. Automate everything."
     
