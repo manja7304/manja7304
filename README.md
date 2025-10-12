@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🤖 AI/ML Engineer | 🔒 Security Researcher | 💻 Full-Stack Developer
+### 🤖 AI Engineer | 🔒 Security Researcher | 💻 Backend Developer
 
 *Building intelligent systems that don't just work—they think, adapt, and secure themselves.*
 
