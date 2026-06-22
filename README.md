@@ -2,17 +2,18 @@
 
 # Manjunath K G
 
-**AI/ML Trainee Engineer · Agentic AI · Security Automation**
+**AI/ML Trainee Engineer · Agentic AI · Offensive & Defensive Security**
 
-Building production-grade multi-agent systems for autonomous security assessment, GRC automation, and LLM-powered workflows.
+Architecting multi-agent AI systems for autonomous pentesting, GRC automation, and production LLM pipelines — where AI engineering meets real-world cyber security.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manja7304.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manja7304.github.io/myPersonalPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manjunathkg07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07)
 [![Email](https://img.shields.io/badge/Email-manjunathkg4433@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkg4433@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-chethan7304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chethan7304/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-manja4444-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/manja4444)
+[![CEH](https://img.shields.io/badge/CEH_v13_with_AI-Certified-059669?style=for-the-badge&logo=shield&logoColor=white)](#certifications--achievements)
 
-*Bengaluru, India*
+*Bengaluru, India · AI/ML Trainee Engineer @ Ampcus Cyber*
 
 </div>
 
@@ -20,16 +21,122 @@ Building production-grade multi-agent systems for autonomous security assessment
 
 ## About
 
-I'm an **AI/ML Trainee Engineer at Ampcus Cyber**, where I architect and ship agentic AI platforms for security — from autonomous pentesting SaaS with 60+ specialized agents to MCP-driven GRC evidence automation across AWS, Azure, GCP, Jira, and GitHub.
+I'm an **AI/ML Trainee Engineer at Ampcus Cyber** building production agentic platforms at the intersection of **AI engineering** and **cyber security** — autonomous pentesting SaaS, MCP-driven compliance automation, RAG evaluation pipelines, and LLM cost/quality optimization for enterprise security products.
 
 ```python
-class Profile:
+class AIEngineer:
     name = "Manjunath K G"
     role = "AI/ML Trainee Engineer @ Ampcus Cyber"
-    focus = ["Multi-Agent Systems", "Agentic RAG", "Security Automation"]
-    stack = ["Claude Agent SDK", "FastAPI", "Next.js", "Temporal", "PostgreSQL"]
-    certified = "CEH v13 with AI (EC-Council)"
+    domains = ["Agentic AI", "Autonomous Pentesting", "GRC Automation", "LLM Ops"]
+
+    def agent_stack(self):
+        return {
+            "orchestration": ["Claude Agent SDK", "LiteLLM", "Temporal", "LangGraph"],
+            "backend": ["FastAPI", "Next.js", "PostgreSQL", "Redis"],
+            "ai_patterns": ["ReAct", "Supervisor/Router", "Plan-and-Execute", "Tool Calling"],
+            "security": ["OWASP Top 10", "OWASP WSTG", "MITRE ATT&CK", "CEH v13"],
+        }
 ```
+
+---
+
+## AI Engineering
+
+Production-focused AI engineering across the full lifecycle — from agent design and orchestration to evaluation, observability, and cost control.
+
+### Agentic Systems & Orchestration
+- Designed **60+ specialized AI agents** for web, API, Android, source-code, and network security surfaces
+- Built **phased parallel orchestration** (30+ agents per wave) with Temporal checkpointing, fault tolerance, and workflow recovery
+- Implemented **Supervisor/Router, ReAct, Plan-and-Execute, and Reflection** patterns for reliable multi-step reasoning
+- Integrated **Claude Agent SDK + LiteLLM** for model routing, fallback tiers, and provider-agnostic agent execution
+
+### LLM Engineering & Optimization
+- Reduced **token usage by 30%** via system prompt design, few-shot templates, chain-of-thought scaffolds, response caching, and model-tier selection
+- Built **RAG evaluation & monitoring with RAGAS** — tracking faithfulness, relevancy, and retrieval quality across prompt/model changes
+- Improved answer **faithfulness and relevancy by 30%** while preventing regressions during production updates
+- Developed automated **report-generation pipelines** (6 hours → 10 minutes, ~97% reduction) for concurrent client deliverables
+
+### RAG & Knowledge Systems
+- Agentic RAG pipelines with hybrid search, embeddings, and context window management
+- Vector stores: **Pinecone, Chroma, pgvector** · Knowledge graph integration for structured security context
+- Short/long-term memory patterns for multi-turn agent sessions and audit trails
+
+### MCP & Tool Integration
+- Built **AWS MCP server** exposing **70+ tools** for automated cloud evidence fetching
+- Extended MCP agents across **AWS, Azure, GCP, Jira, and GitHub** for GRC evidence collection
+- Custom tool development, function calling, and REST/API integrations for agent-to-platform communication
+
+### MLOps & Platform Practices
+- **Docker** containerization, **Prometheus/Grafana** observability, CI/CD pipelines
+- **Spec-driven development (SpecKit)** and secure-coding standards for auditable delivery
+- End-to-end ownership: feature dev → test deployment → production incident response
+
+```mermaid
+flowchart LR
+    A[Client Request] --> B[Temporal Workflow]
+    B --> C[Supervisor Agent]
+    C --> D1[Web Agent]
+    C --> D2[API Agent]
+    C --> D3[Network Agent]
+    C --> D4[Source Code Agent]
+    D1 & D2 & D3 & D4 --> E[RAG + MCP Tools]
+    E --> F[Evidence Store]
+    F --> G[Report Generator]
+    G --> H[REST API / GRC Integration]
+```
+
+---
+
+## Cyber Security
+
+Hands-on offensive and defensive security experience — from autonomous assessment platforms to compliance automation and vulnerability research.
+
+### Offensive Security & Pentesting
+- **Autonomous pentesting SaaS** covering OWASP Top 10 and **OWASP WSTG** testing categories
+- Assessment turnaround reduced from **3–5 days → under 4 hours** with expanded multi-surface coverage
+- Web, API, Android, source-code, and network attack surface analysis via AI-driven agents
+- **CEH v13 (with AI)** certified · active **TryHackMe** practitioner
+
+### Vulnerability Assessment & AppSec
+- Built and maintained tools for **XSS, SQLi, CSRF** detection and remediation workflows
+- API security assessments aligned with OWASP standards
+- Automated scanning with **Burp Suite, Nessus, Nmap, Playwright**
+- Custom Python security scripts for fuzzing, directory traversal, and host discovery
+
+### Defensive Security & GRC
+- **GRC evidence automation** across cloud and dev platforms (AWS, Azure, GCP, GitHub, Jira)
+- Real-time **infrastructure monitoring agent** (GRACEATHON winner) — Python, FastAPI, Prometheus
+- Partnered with **red-team, blue-team, and GRC** teams to translate findings into product features
+- **MITRE ATT&CK**-aligned threat modeling and security control mapping
+
+### Security Toolkit
+
+| Category | Tools & Frameworks |
+|----------|-------------------|
+| **Standards** | OWASP Top 10, OWASP WSTG, MITRE ATT&CK |
+| **Offensive** | Burp Suite, Nmap, Nessus, Metasploit, Playwright |
+| **Cloud Security** | AWS / Azure / GCP MCP evidence agents |
+| **Automation** | Custom Python scanners, XSS tooling, bug trackers |
+| **Certification** | CEH v13 with AI (EC-Council) |
+
+---
+
+## Engineering Contributions
+
+Shipped production features and platform improvements — presented in PR-style deliverables from active engineering work at Ampcus Cyber.
+
+| Contribution | Domain | Impact |
+|:---|:---|:---|
+| `feat/autonomous-pentest-orchestrator` | Agentic AI | 60+ agents · 3–5 day assessments → **<4 hours** |
+| `feat/temporal-parallel-agent-waves` | Workflow Engine | 30+ agents/wave · checkpointing & fault recovery |
+| `feat/ai-report-generator` | LLM Pipeline | Report turnaround **6h → 10min (~97%)** |
+| `feat/aws-mcp-evidence-server` | MCP / GRC | **70+ tools** for automated cloud evidence |
+| `feat/multi-cloud-grc-agents` | Compliance | AWS · Azure · GCP · Jira · GitHub integration |
+| `feat/ragas-eval-framework` | LLM Ops | **+30%** faithfulness/relevancy · regression guard |
+| `perf/llm-token-optimization` | Cost Engineering | **-30%** token usage via prompts & caching |
+| `feat/graceathon-observability-agent` | Blue Team | Real-time infra monitoring · Prometheus stack |
+
+> Most production contributions live in private enterprise repos. Public work is showcased below in **Featured Projects**.
 
 ---
 
@@ -38,87 +145,114 @@ class Profile:
 ### AI/ML Trainee Engineer · Ampcus Cyber
 *Bengaluru · Sept 2025 – Present*
 
-- Architected a **production-grade autonomous pentesting SaaS** with 60+ specialized AI agents covering web, API, Android, source-code, and network surfaces — orchestrated via **Claude Agent SDK & LiteLLM** on FastAPI / Next.js / PostgreSQL / Redis with **Temporal** workflows and public REST APIs
-- Engineered a phased orchestration pipeline running **30+ AI agents in parallel waves** with checkpointing and fault tolerance, cutting assessment turnaround from **3–5 days to under 4 hours** across OWASP Top 10 and OWASP WSTG categories
-- Built automated report generation, reducing turnaround from **6 hours to 10 minutes (~97%)** and designed for scale across concurrent client engagements
-- Owned the platform end-to-end — feature development, test-server deployment, and production incident response
-- Built an **AWS MCP server** exposing 70+ tools for automated evidence fetching, integrated into the company's GRC application
-- Extended GRC evidence collection across **AWS, Azure, Jira, GitHub, and GCP** via MCP agents
-- Drove LLM output quality and cost optimization — reduced **token usage by 30%** through prompt tuning, caching, and model-tier selection
-- Built a **RAG evaluation framework with RAGAS**, improving answer faithfulness and relevancy by **30%** and preventing regressions during model/prompt updates
-- Partnered with red-team, blue-team, and GRC teams; mentored colleagues on practical AI-tool adoption
-- Containerized services with **Docker** and followed spec-driven development (SpecKit) with secure-coding principles
+- Architected production **autonomous pentesting SaaS** on FastAPI / Next.js / PostgreSQL / Redis with public REST APIs
+- Engineered **Temporal-based orchestration** for parallel AI agent execution with enterprise-grade reliability
+- Built **MCP servers and GRC automation** for multi-cloud compliance evidence collection
+- Drove **LLM quality, cost, and evaluation** (RAGAS) across production agent workflows
+- Mentored teams on AI-tool adoption · containerized services with Docker · spec-driven secure delivery
 
-`Claude Agent SDK` `LiteLLM` `FastAPI` `Next.js` `Temporal` `Redis` `PostgreSQL` `MCP` `RAGAS` `Docker`
+`Claude Agent SDK` `LiteLLM` `LangGraph` `Temporal` `FastAPI` `Next.js` `MCP` `RAGAS` `Docker`
 
 ---
 
 ## Skills
 
+<details open>
+<summary><strong>AI / ML Engineering</strong></summary>
+
 | Area | Technologies |
 |------|--------------|
-| **Agentic AI & LLM** | Multi-Agent Systems, LLM Orchestration, Prompt Engineering, Fine-Tuning, RAGAS, Claude Agent SDK, LangChain, LangGraph, CrewAI, Google ADK, n8n |
-| **Agent Patterns** | ReAct, Plan-and-Execute, Reflection, Supervisor/Router, Tool Calling, Human-in-the-Loop, Memory-Driven Agents |
-| **RAG & Knowledge** | Agentic RAG, Hybrid Search, Embeddings, Pinecone, Chroma, pgvector, Knowledge Graphs, Context Management |
-| **MCP & Integration** | MCP Server/Client Development, Custom Tools, Function Calling, REST/API Integrations |
-| **LLM Platforms** | Anthropic Claude, OpenAI, Google Gemini, Hugging Face, Transformers, Streamlit |
-| **Backend & Infra** | FastAPI, Next.js, React, TypeScript, Docker, Temporal, Redis, PostgreSQL, MongoDB, MySQL, AWS / Azure / GCP |
-| **ML & Data** | Scikit-learn, NumPy, Pandas, Matplotlib, Feature Engineering, Deep Learning Fundamentals |
-| **Observability** | Prometheus, Grafana, CI/CD, SpecKit, Secure Coding |
-| **Security** | CEH v13, OWASP Top 10, MITRE ATT&CK, Burp Suite, Nmap, Nessus, Playwright |
+| **Agentic AI** | Multi-Agent Systems, LLM Orchestration, Claude Agent SDK, LangChain, LangGraph, CrewAI, Google ADK, n8n |
+| **Patterns** | ReAct, Plan-and-Execute, Reflection, Supervisor/Router, Tool Calling, Human-in-the-Loop, Memory Agents |
+| **RAG & Vectors** | Agentic RAG, Hybrid Search, Embeddings, Pinecone, Chroma, pgvector, Knowledge Graphs |
+| **LLM Platforms** | Anthropic Claude, OpenAI, Google Gemini, Hugging Face, Transformers, LiteLLM |
+| **Evaluation** | RAGAS, Prompt Engineering, Fine-Tuning, Chain-of-Thought, Response Caching |
+
+</details>
+
+<details open>
+<summary><strong>Cyber Security</strong></summary>
+
+| Area | Technologies |
+|------|--------------|
+| **Offensive** | Pentesting, OWASP Top 10, OWASP WSTG, XSS/SQLi/CSRF, API Security, Fuzzing |
+| **Defensive** | GRC Automation, Cloud Compliance, MITRE ATT&CK, Incident Response, Secure Coding |
+| **Tools** | Burp Suite, Nmap, Nessus, Metasploit, Playwright, Wireshark |
+| **Cloud** | AWS / Azure / GCP security evidence via MCP agents |
+
+</details>
+
+<details>
+<summary><strong>Backend, Infra & Data</strong></summary>
+
+| Area | Technologies |
+|------|--------------|
+| **Backend** | FastAPI, Next.js, React, TypeScript, REST APIs |
+| **Data** | PostgreSQL, Redis, MongoDB, MySQL, Pandas, NumPy, Scikit-learn |
+| **Infra** | Docker, Temporal, CI/CD, Prometheus, Grafana, SpecKit |
+| **Languages** | Python, TypeScript, C++, SQL |
+
+</details>
 
 ---
 
 ## Certifications & Achievements
 
-- **Certified Ethical Hacker (CEH v13 with AI)** — EC-Council · Credential ID: ECC5074128936
-- **Winner — Internal Company Hackathon (GRACEATHON):** Built a real-time infrastructure monitoring and observability agent (Python, FastAPI, Prometheus) tracking system health across production servers
+- **Certified Ethical Hacker (CEH v13 with AI)** — EC-Council · Credential ID: `ECC5074128936`
+- **Winner — GRACEATHON (Internal Hackathon):** Real-time infrastructure monitoring & observability agent — Python, FastAPI, Prometheus
 - **AI Mastery with Machine Learning** — Bluetick AI Academy
+- **TryHackMe** — Active CTF & practical security labs · [Profile](https://tryhackme.com/p/manja4444)
 
 ---
 
 ## Featured Projects
 
 ### [VectorShift Pipeline Builder](https://github.com/manja7304/vectorshift-technical-assessment)
-Visual pipeline builder with React frontend and FastAPI backend — drag-and-drop node graph for composing data/AI workflows.
+Visual AI/data pipeline builder — React drag-and-drop frontend with FastAPI backend for node-based workflow composition.
 
-`React` `FastAPI` `JavaScript` `Python`
+`React` `FastAPI` `JavaScript` `Python` · *Full-stack AI workflow UI*
 
 ### [Intelligent HR Candidate Profiling System](https://github.com/manja7304/Intelligent-Chat-Interface)
-AI recruitment platform with NLP resume parsing, LinkedIn enrichment, and GPT-4 conversational interface.
+NLP resume parser + GPT-4 conversational interface with LinkedIn enrichment and dynamic assessment generation.
 
-`Python` `OpenAI API` `NLP` `BeautifulSoup` `SQLite`
+`Python` `OpenAI API` `NLP` `RAG` `SQLite` · *LLM-powered automation*
 
 ### [AI-Powered Web Scraper](https://github.com/manja7304/AI-WEB-SCRAPING)
-LLM-enhanced scraping with Selenium, Ollama summarization, Streamlit UI, and BrightData proxy support.
+Selenium extraction pipeline with Ollama LLM summarization, Streamlit UI, and proxy infrastructure.
 
-`Python` `Streamlit` `Selenium` `Ollama`
+`Python` `Streamlit` `Selenium` `Ollama` · *Agentic data extraction*
 
 ### [Dockerized Stock Data Pipeline](https://github.com/manja7304/stock-pipeline)
-Airflow-orchestrated ETL with Alpha Vantage API, PostgreSQL, and Docker Compose deployment.
+Production-style ETL with Airflow DAGs, Alpha Vantage API, PostgreSQL, and Docker Compose.
 
-`Python` `Apache Airflow` `Docker` `PostgreSQL`
+`Python` `Apache Airflow` `Docker` `PostgreSQL` · *Data engineering*
 
 <details>
-<summary><strong>More security & tooling repos</strong></summary>
+<summary><strong>Security & research repos</strong></summary>
 
-| Project | Description |
-|---------|-------------|
-| [ADVANCE-XSS-SCANNER](https://github.com/manja7304/ADVANCE-XSS-SCANNER) | Automated XSS detection and scanning |
-| [BUG-TRACKER-](https://github.com/manja7304/BUG-TRACKER-) | Bug tracking web app |
-| [HOST-DISCOVERY-WEB-APP](https://github.com/manja7304/HOST-DISCOVERY-WEB-APP) | Network host discovery utility |
-| [Risk Prediction — Opioid Dependency](https://github.com/manja7304/Risk-Prediction-of-Opioid-Dependency-Using-Machine-Learning) | ML-based risk modeling |
+| Project | Focus |
+|---------|-------|
+| [ADVANCE-XSS-SCANNER](https://github.com/manja7304/ADVANCE-XSS-SCANNER) | Automated XSS detection & payload testing |
+| [HOST-DISCOVERY-WEB-APP](https://github.com/manja7304/HOST-DISCOVERY-WEB-APP) | Network recon & host enumeration |
+| [BUG-TRACKER-](https://github.com/manja7304/BUG-TRACKER-) | Vulnerability tracking & triage workflow |
+| [IMAGE-STEGANOGRAPHY](https://github.com/manja7304/IMAGE-STEGANOGRAPHY) | Steganography & data hiding techniques |
+| [Risk Prediction — Opioid Dependency](https://github.com/manja7304/Risk-Prediction-of-Opioid-Dependency-Using-Machine-Learning) | ML classification & risk modeling |
+| [Cyber-Security](https://github.com/manja7304/Cyber-Security) | Security notes, labs & practice material |
 
 </details>
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manja7304&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Contribution graph" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=manja7304&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manja7304&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+**24 public repos** · Python · JavaScript · TypeScript · C++ · Solidity
 
 </div>
 
@@ -133,7 +267,9 @@ ASC Degree College, Bangalore University · CGPA **8.3 / 10** · 2022 – 2025
 
 ## Open To
 
-Opportunities in **Agentic AI Engineering**, **AI/ML Engineering**, **AI Security**, and **Backend / Full-Stack** roles — especially where multi-agent systems, LLM orchestration, and security automation intersect.
+**Agentic AI Engineer** · **AI/ML Engineer** · **AI Security Engineer** · **Backend / Full-Stack Engineer**
+
+Roles where multi-agent LLM systems, autonomous security tooling, and production AI pipelines are core — not side projects.
 
 ---
 
@@ -148,6 +284,6 @@ Opportunities in **Agentic AI Engineering**, **AI/ML Engineering**, **AI Securit
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chethan7304/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/manja4444)
 
-*Available for opportunities · Open to collaboration*
+*Building AI that secures · Securing AI that builds*
 
 </div>
