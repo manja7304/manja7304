@@ -8,7 +8,7 @@
 Building **production multi-agent platforms** for autonomous pentesting, LLM security, and GRC automation at **Ampcus Cyber**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-6366F1?style=for-the-badge)](https://manja7304.github.io/myPersonalPortfolio/)
-[![Blog](https://img.shields.io/badge/📝_Blog-11_Articles-00D4FF?style=for-the-badge)](https://manja7304.github.io/myPersonalPortfolio/blog/)
+[![Blog](https://img.shields.io/badge/📝_Blog-30_Articles-00D4FF?style=for-the-badge)](https://manja7304.github.io/myPersonalPortfolio/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07)
 [![CEH v13](https://img.shields.io/badge/CEH_v13_with_AI-Certified-059669?style=for-the-badge&logo=shield&logoColor=white)](#-certifications)
 
@@ -206,31 +206,104 @@ Architecting production **autonomous pentesting SaaS** — 60+ AI agents on Fast
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [VectorShift Pipeline Builder](https://github.com/manja7304/vectorshift-technical-assessment) | Visual AI workflow builder | React · FastAPI |
-| [Intelligent HR Profiling](https://github.com/manja7304/Intelligent-Chat-Interface) | NLP resume parser + GPT-4 RAG interface | Python · OpenAI |
-| [AI Web Scraper](https://github.com/manja7304/AI-WEB-SCRAPING) | LLM-enhanced extraction pipeline | Selenium · Ollama |
-| [Stock Data Pipeline](https://github.com/manja7304/stock-pipeline) | Airflow ETL · Docker · PostgreSQL | Python · Airflow |
-| [XSS Scanner](https://github.com/manja7304/ADVANCE-XSS-SCANNER) | Automated XSS detection tool | Python · OWASP |
-| [Host Discovery App](https://github.com/manja7304/HOST-DISCOVERY-WEB-APP) | Network recon utility | Python · Security |
+### 🤖 AI / ML Engineering
+
+| Project | Description | Link |
+|:--------|:------------|:-----|
+| VectorShift Pipeline Builder | Visual AI/data pipeline builder · React + FastAPI | [Repo](https://github.com/manja7304/vectorshift-technical-assessment) |
+| Intelligent HR Profiling | NLP resume parser + GPT-4 conversational RAG interface | [Repo](https://github.com/manja7304/Intelligent-Chat-Interface) |
+| AI Web Scraper | Selenium + Ollama LLM summarization · Streamlit UI | [Repo](https://github.com/manja7304/AI-WEB-SCRAPING) |
+| Stock Data Pipeline | Airflow ETL · Alpha Vantage · Docker · PostgreSQL | [Repo](https://github.com/manja7304/stock-pipeline) |
+| Opioid Risk Prediction | ML classification & risk modeling project | [Repo](https://github.com/manja7304/Risk-Prediction-of-Opioid-Dependency-Using-Machine-Learning) |
+| Python Mini Projects | Collection of Python automation & ML scripts | [Repo](https://github.com/manja7304/Python-Mini-Projects) |
+
+### 🛡️ Cyber Security Tools
+
+| Project | Description | Link |
+|:--------|:------------|:-----|
+| Advance XSS Scanner | Automated XSS detection & payload testing | [Repo](https://github.com/manja7304/ADVANCE-XSS-SCANNER) |
+| Host Discovery Web App | Network recon & host enumeration utility | [Repo](https://github.com/manja7304/HOST-DISCOVERY-WEB-APP) |
+| Bug Tracker | Vulnerability tracking & triage workflow | [Repo](https://github.com/manja7304/BUG-TRACKER-) |
+| Image Steganography | Steganography & data hiding techniques | [Repo](https://github.com/manja7304/IMAGE-STEGANOGRAPHY) |
+| UI & API Testing Automation | Automated UI/API test assignment suite | [Repo](https://github.com/manja7304/Automation-Assignment---UI---API-Testing) |
+
+### 🌐 Web & Portfolio
+
+| Project | Description | Link |
+|:--------|:------------|:-----|
+| Personal Portfolio (Live) | AI/Security portfolio + 30-article blog | [Live](https://manja7304.github.io/myPersonalPortfolio/) · [Repo](https://github.com/manja7304/myPersonalPortfolio) |
+| Personal Portfolio v1 | Earlier portfolio iteration | [Repo](https://github.com/manja7304/Personal-Portfolio) |
+| GitHub Profile | Profile README & config | [Repo](https://github.com/manja7304/manja7304) |
+
+### 💻 Learning & Practice
+
+| Project | Description | Link |
+|:--------|:------------|:-----|
+| C++ Practice | Competitive programming & DSA practice | [Repo](https://github.com/manja7304/Practise) |
 
 ---
 
-## 📝 Writing & Blog
+## 📝 Writing & Blog — [30 Articles](https://manja7304.github.io/myPersonalPortfolio/blog/)
 
-I publish technical articles on **agentic AI, LLM security, and production ML** — [11 articles on my portfolio blog](https://manja7304.github.io/myPersonalPortfolio/blog/):
+Technical writing on **agentic AI, LLM security, RAG, MCP, and offensive/defensive security**.
 
-| Article | Topic |
-|:--------|:------|
-| [7 LLM Security Strategies](https://manja7304.github.io/myPersonalPortfolio/blog/llm-security-strategies.html) | Production LLM defense-in-depth |
-| [OWASP LLM Top 10 in Production](https://manja7304.github.io/myPersonalPortfolio/blog/owasp-llm-top-10-production.html) | Risk → control mapping |
-| [Prompt Injection & AI Red Teaming](https://manja7304.github.io/myPersonalPortfolio/blog/prompt-injection-defense.html) | Attack taxonomy & defenses |
-| [Orchestrating 60+ AI Agents](https://manja7304.github.io/myPersonalPortfolio/blog/multi-agent-orchestration.html) | Temporal · parallel waves |
-| [Securing MCP Servers](https://manja7304.github.io/myPersonalPortfolio/blog/mcp-security-best-practices.html) | Tool access control |
-| [→ All articles](https://manja7304.github.io/myPersonalPortfolio/blog/) | RAG · LangGraph · Cost optimization |
+<details open>
+<summary><strong>🛡️ LLM Security & AppSec (12 articles)</strong></summary>
+
+| # | Article | Topic |
+|:-:|:--------|:------|
+| 1 | [7 LLM Security Strategies](https://manja7304.github.io/myPersonalPortfolio/blog/llm-security-strategies.html) | Production defense-in-depth |
+| 2 | [OWASP LLM Top 10 in Production](https://manja7304.github.io/myPersonalPortfolio/blog/owasp-llm-top-10-production.html) | Risk → control mapping |
+| 3 | [Prompt Injection & AI Red Teaming](https://manja7304.github.io/myPersonalPortfolio/blog/prompt-injection-defense.html) | Attack taxonomy & defenses |
+| 4 | [Secure Prompt Engineering](https://manja7304.github.io/myPersonalPortfolio/blog/secure-prompt-engineering.html) | Enterprise prompt design |
+| 5 | [Autonomous Pentesting with AI Agents](https://manja7304.github.io/myPersonalPortfolio/blog/autonomous-pentesting-ai-agents.html) | Evidence-first pentest SaaS |
+| 6 | [OWASP API Security for AI Platforms](https://manja7304.github.io/myPersonalPortfolio/blog/owasp-api-security-agents.html) | Securing agent REST APIs |
+| 7 | [Securing MCP Servers](https://manja7304.github.io/myPersonalPortfolio/blog/mcp-security-best-practices.html) | Tool access control |
+| 8 | [Cloud GRC Automation with MCP](https://manja7304.github.io/myPersonalPortfolio/blog/cloud-grc-automation.html) | Multi-cloud compliance |
+| 9 | [SQL Injection Automation](https://manja7304.github.io/myPersonalPortfolio/blog/sql-injection-automation.html) | Detection & remediation |
+| 10 | [XSS Defense Deep Dive](https://manja7304.github.io/myPersonalPortfolio/blog/xss-defense-deep-dive.html) | Scanner design & prevention |
+| 11 | [API Security Testing Guide](https://manja7304.github.io/myPersonalPortfolio/blog/api-security-testing-guide.html) | Auth bypass & fuzzing |
+| 12 | [MITRE ATT&CK for AI Systems](https://manja7304.github.io/myPersonalPortfolio/blog/mitre-attack-ai-mapping.html) | Threat modeling AI platforms |
+
+</details>
+
+<details open>
+<summary><strong>🤖 Agentic AI & LLM Engineering (10 articles)</strong></summary>
+
+| # | Article | Topic |
+|:-:|:--------|:------|
+| 13 | [Orchestrating 60+ AI Agents](https://manja7304.github.io/myPersonalPortfolio/blog/multi-agent-orchestration.html) | Supervisor · parallel waves |
+| 14 | [Temporal Workflows for AI Agents](https://manja7304.github.io/myPersonalPortfolio/blog/temporal-ai-workflows.html) | Durable agent pipelines |
+| 15 | [LangGraph Agent Patterns](https://manja7304.github.io/myPersonalPortfolio/blog/langgraph-agent-patterns.html) | ReAct · Plan-and-Execute |
+| 16 | [Agent Memory Systems](https://manja7304.github.io/myPersonalPortfolio/blog/agent-memory-systems.html) | Short & long-term memory |
+| 17 | [Function Calling Tool Design](https://manja7304.github.io/myPersonalPortfolio/blog/function-calling-tool-design.html) | Schema & error handling |
+| 18 | [FastAPI LLM Backend Patterns](https://manja7304.github.io/myPersonalPortfolio/blog/fastapi-llm-backend-patterns.html) | Streaming · async · rate limits |
+| 19 | [Human-in-the-Loop Agents](https://manja7304.github.io/myPersonalPortfolio/blog/human-in-the-loop-agents.html) | Approval gates & review queues |
+| 20 | [LLM Cost Optimization (-30%)](https://manja7304.github.io/myPersonalPortfolio/blog/llm-cost-optimization.html) | Model-tier routing · caching |
+| 21 | [Docker for AI Production](https://manja7304.github.io/myPersonalPortfolio/blog/docker-ai-production.html) | Containerization best practices |
+| 22 | [Prometheus AI Observability](https://manja7304.github.io/myPersonalPortfolio/blog/prometheus-ai-observability.html) | Metrics & alerting for agents |
+
+</details>
+
+<details open>
+<summary><strong>📊 RAG, MLOps & Offensive Recon (8 articles)</strong></summary>
+
+| # | Article | Topic |
+|:-:|:--------|:------|
+| 23 | [RAG Evaluation with RAGAS](https://manja7304.github.io/myPersonalPortfolio/blog/rag-evaluation-ragas.html) | Faithfulness · regression gates |
+| 24 | [Hybrid Search for Agentic RAG](https://manja7304.github.io/myPersonalPortfolio/blog/hybrid-search-agentic-rag.html) | Vectors + BM25 |
+| 25 | [Fine-Tuning vs RAG](https://manja7304.github.io/myPersonalPortfolio/blog/fine-tuning-vs-rag.html) | When to use which |
+| 26 | [Vector DB Selection Guide](https://manja7304.github.io/myPersonalPortfolio/blog/vector-db-selection-rag.html) | Pinecone · Chroma · pgvector |
+| 27 | [Embedding Models Comparison](https://manja7304.github.io/myPersonalPortfolio/blog/embedding-models-comparison.html) | Domain-specific retrieval |
+| 28 | [Network Recon with Nmap](https://manja7304.github.io/myPersonalPortfolio/blog/network-recon-nmap.html) | Scan types & automation |
+| 29 | [Burp Suite Automation](https://manja7304.github.io/myPersonalPortfolio/blog/burp-suite-for-bug-hunters.html) | Extensions & CI integration |
+| 30 | [Spec-Driven AI Development](https://manja7304.github.io/myPersonalPortfolio/blog/spec-driven-ai-development.html) | SpecKit for auditable delivery |
+
+</details>
+
+**→ [Browse all 30 articles](https://manja7304.github.io/myPersonalPortfolio/blog/)**
 
 ---
 
@@ -277,7 +350,7 @@ Roles where **multi-agent systems**, **LLM security**, and **production AI pipel
 **Building AI that secures · Securing AI that builds**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manja7304.github.io/myPersonalPortfolio/)
-[![Blog](https://img.shields.io/badge/Blog-Read-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://manja7304.github.io/myPersonalPortfolio/blog/)
+[![Blog](https://img.shields.io/badge/Blog-30_Articles-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://manja7304.github.io/myPersonalPortfolio/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkg4433@gmail.com)
 
