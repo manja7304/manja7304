@@ -1,246 +1,164 @@
 <div align="center">
 
-# 👋 Manjunath K G | AI Engineer & Security Researcher
+# Manjunath K G
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Security+Researcher;Building+Intelligent+%26+Secure+Systems;Transforming+Ideas+into+Impact" alt="Typing SVG" />
+**AI Engineer · Security Researcher · Backend Developer**
 
-### 🎯 Bridging AI Innovation with Security Excellence
+Building intelligent systems with a security-first mindset — from LLM pipelines to production ETL and penetration testing.
 
-**AI/ML Analyst @ Ampcus Cyber** | Bengaluru, India 🇮🇳
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manjunathkg07/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manjunathkg4433@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/manja7304)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manjunathkg07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07/)
+[![Email](https://img.shields.io/badge/Email-manjunathkg4433@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkg4433@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bengaluru,_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
-## 🚀 About Me
+---
 
-**Passionate AI Engineer** specializing in building intelligent, secure, and scalable systems. Currently driving AI-powered security compliance automation at **Ampcus Cyber**, with proven expertise in LLM integration, security research, and backend development.
+## About
 
-**💡 Core Strengths:**
-- ⚡ **70% efficiency gain** in recruitment workflows through AI automation
-- 🔐 Expertise in AI-driven security compliance and threat detection
-- 🤖 Production experience with OpenAI, LangChain, and RAG systems
-- 🛡️ OWASP Top 10 security testing and vulnerability remediation
+I'm an **AI/ML Analyst at Ampcus Cyber** in Bengaluru, focused on AI-driven security compliance, LLM integration, and backend automation. I enjoy shipping tools that reduce manual work, improve detection, and hold up under real-world constraints.
 
 ```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Manjunath K G"
-        self.role = "AI/ML Analyst"
-        self.company = "Ampcus Cyber"
-        self.expertise = ["AI/ML", "Security", "Backend Development"]
-        self.passion = "Building systems that think, adapt, and secure"
-    
-    def current_focus(self):
-        return {
-            "ai_ml": ["LLM Fine-tuning", "RAG Systems", "NLP"],
-            "security": ["AI-driven Compliance", "Threat Detection"],
-            "engineering": ["System Design", "Automation", "DevOps"]
-        }
+class Profile:
+    name = "Manjunath K G"
+    role = "AI/ML Analyst @ Ampcus Cyber"
+    focus = ["LLMs & RAG", "Security Automation", "Backend Systems"]
+    currently = "Compliance automation, threat detection, and production pipelines"
 ```
 
----
-
-## 💼 Professional Experience
-
-### 🤖 **AI/ML Analyst Intern** | Ampcus Cyber
-**Sept 2025 - Present** • Bengaluru, India
-
-**Key Achievements:**
-- 🎯 **Researching and implementing AI-driven security compliance automation** using OpenAI and custom LLM pipelines
-- 📊 **Built real-time monitoring systems** with intelligent alerting mechanisms for server infrastructure
-- 🔧 **Fine-tuned GPT models** for customer-specific security query handling, improving response accuracy
-- 📝 **Automated compliance documentation workflows**, reducing manual effort by 60%
-- 🛡️ **Developing ML-powered threat detection** systems for proactive security monitoring
-
-**Technologies:** Python, OpenAI API, LangChain, PostgreSQL, Docker, Apache Airflow
+**Highlights**
+- Cut recruitment screening time by **~70%** with an AI-powered candidate profiling system
+- Built compliance and monitoring workflows that reduced manual documentation effort by **~60%**
+- Hands-on with **OWASP Top 10** testing, API security reviews, and vulnerability remediation
 
 ---
 
-### 🛡️ **Cyber Security Intern** | Hacker School
-**Jan 2025 - Mar 2025** • Bengaluru, India
+## Experience
 
-**Key Achievements:**
-- 🔍 **Identified and remediated critical vulnerabilities** including SQLi, XSS, and CSRF across client applications
-- 🎯 **Automated security scanning workflows** using Nessus and custom Python scripts
-- 🔨 **Conducted comprehensive penetration testing** including fuzzing and directory traversal attacks
-- ✅ **Performed API security assessments** against OWASP Top 10 standards
-- 📋 **Delivered detailed security reports** with actionable remediation strategies
+### AI/ML Analyst Intern · Ampcus Cyber
+*Bengaluru · Sept 2025 – Present*
 
-**Technologies:** Burp Suite, Metasploit, Nessus, Nmap, Wireshark, Python
+- Research and implement **AI-driven security compliance automation** using OpenAI and custom LLM pipelines
+- Build **real-time monitoring and alerting** for server infrastructure
+- Fine-tune GPT models for customer-specific security queries
+- Develop **ML-assisted threat detection** for proactive monitoring
 
----
+`Python` `OpenAI API` `LangChain` `PostgreSQL` `Docker` `Apache Airflow`
 
-## 🛠️ Technical Skills
+### Cyber Security Intern · Hacker School
+*Bengaluru · Jan 2025 – Mar 2025*
 
-<table>
-<tr>
-<td valign="top" width="33%">
+- Found and remediated **SQLi, XSS, and CSRF** issues across client applications
+- Ran automated scans with **Nessus** and custom Python tooling
+- Performed penetration testing, API security assessments, and OWASP-aligned reviews
 
-### 🎯 Core Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-### 🤖 AI/ML & Data
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 🔒 Security & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-</td>
-</tr>
-</table>
+`Burp Suite` `Metasploit` `Nessus` `Nmap` `Wireshark` `Python`
 
 ---
 
-## 🎯 Featured Projects
+## Skills
 
-### 🤖 [Intelligent HR Candidate Profiling System](https://github.com/manja7304/Intelligent-Chat-Interface)
-
-**AI-powered recruitment automation platform that revolutionizes candidate screening**
-
-**🎯 Business Impact:**
-- ⚡ **Reduced manual screening time by 70%**
-- 📈 **Improved candidate quality scoring by 45%**
-- 🤖 **Automated 80% of initial screening workflows**
-
-**🔧 Technical Highlights:**
-- Built NLP-powered resume parser supporting PDF, DOCX, and TXT formats
-- Implemented automated LinkedIn profile enrichment using web scraping
-- Developed conversational AI interface using OpenAI GPT-4 for intelligent queries
-- Created dynamic assessment form generation based on job requirements
-- Designed SQLite database schema with optimized indexing for fast retrieval
-
-**Tech Stack:** Python, OpenAI API, NLP, BeautifulSoup, SQLite, RESTful APIs
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Python, C++, SQL |
+| **AI / ML** | OpenAI, LangChain, RAG, NLP, Pandas |
+| **Backend & Data** | PostgreSQL, REST APIs, Apache Airflow, SQLite |
+| **Security** | OWASP Top 10, Burp Suite, Metasploit, Nessus, XSS/SQLi testing |
+| **DevOps & Tools** | Docker, Git, Linux, Selenium, Streamlit |
 
 ---
 
-### 🕷️ [AI-Powered Web Scraper](https://github.com/manja7304/AI-WEB-SCRAPING)
+## Featured Projects
 
-**Intelligent data extraction system with LLM-enhanced content processing**
+### [Intelligent HR Candidate Profiling System](https://github.com/manja7304/Intelligent-Chat-Interface)
+AI recruitment platform with NLP resume parsing, LinkedIn enrichment, and a GPT-4 conversational interface.
 
-**🎯 Key Features:**
-- 🌐 Dynamic content scraping using Selenium with smart wait strategies
-- 🤖 Integrated Ollama LLM for intelligent content summarization and extraction
-- 🎨 User-friendly Streamlit interface with real-time progress tracking
-- 🛡️ Enterprise-grade proxy infrastructure using BrightData
-- 🔧 Modular architecture with comprehensive error handling and logging
+- Reduced manual screening time by **~70%** and improved quality scoring by **~45%**
+- Supports PDF/DOCX/TXT parsing, dynamic assessment forms, and optimized SQLite storage
 
-**Tech Stack:** Python, Streamlit, Selenium, Ollama, BrightData, Pandas
+`Python` `OpenAI API` `NLP` `BeautifulSoup` `SQLite`
 
 ---
 
-### 📈 [Dockerized Stock Data Pipeline](https://github.com/manja7304/stock-pipeline)
+### [VectorShift Pipeline Builder](https://github.com/manja7304/vectorshift-technical-assessment)
+Technical assessment: visual pipeline builder with a React frontend and FastAPI backend.
 
-**Production-ready ETL system for automated financial data processing**
+- Drag-and-drop node graph for composing data/AI workflows
+- Full-stack integration between UI state and API execution layer
 
-**🎯 Technical Implementation:**
-- 🔄 Orchestrated complex data workflows using Apache Airflow DAGs
-- 📊 Integrated Alpha Vantage API with retry logic and rate limiting
-- 🗄️ Designed normalized PostgreSQL schema with partitioning for performance
-- 🐳 Fully containerized application with Docker Compose for easy deployment
-- ⏰ Scheduled automated data pipelines with monitoring and alerting
-
-**Tech Stack:** Python, Apache Airflow, Docker, PostgreSQL, Alpha Vantage API
+`React` `FastAPI` `JavaScript` `Python`
 
 ---
 
-## 📊 GitHub Statistics
+### [AI-Powered Web Scraper](https://github.com/manja7304/AI-WEB-SCRAPING)
+LLM-enhanced scraping pipeline with dynamic content handling and summarization.
+
+- Selenium-based extraction with Ollama for content processing
+- Streamlit UI, BrightData proxy support, modular error handling
+
+`Python` `Streamlit` `Selenium` `Ollama` `Pandas`
+
+---
+
+### [Dockerized Stock Data Pipeline](https://github.com/manja7304/stock-pipeline)
+Production-style ETL for financial data with scheduling and persistence.
+
+- Airflow DAGs, Alpha Vantage API integration with retries/rate limits
+- Normalized PostgreSQL schema, fully containerized with Docker Compose
+
+`Python` `Apache Airflow` `Docker` `PostgreSQL`
+
+---
+
+### Security & Tooling
+
+| Project | Description |
+|---------|-------------|
+| [ADVANCE-XSS-SCANNER](https://github.com/manja7304/ADVANCE-XSS-SCANNER) | Automated XSS detection and scanning |
+| [BUG-TRACKER-](https://github.com/manja7304/BUG-TRACKER-) | Bug tracking web app |
+| [HOST-DISCOVERY-WEB-APP](https://github.com/manja7304/HOST-DISCOVERY-WEB-APP) | Network host discovery utility |
+| [Risk Prediction — Opioid Dependency](https://github.com/manja7304/Risk-Prediction-of-Opioid-Dependency-Using-Machine-Learning) | ML-based risk modeling project |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manja7304&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5B8DEE&icon_color=5B8DEE&text_color=C9D1D9" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manja7304&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5B8DEE&text_color=C9D1D9&langs_count=6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manja7304&theme=react&hide_border=true&background=0D1117&stroke=5B8DEE&ring=5B8DEE&fire=5B8DEE&currStreakLabel=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manja7304&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manja7304&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## Education
 
-**Bachelor of Computer Applications (BCA)**  
-Bangalore University | CGPA: 8.32/10 | 2025
+**Bachelor of Computer Applications (BCA)** — Bangalore University · CGPA **8.32/10** · 2025
 
-**Professional Training:**
-- ✅ AI/ML Analyst Program - Ampcus Cyber (2025)
-- ✅ Advanced Cyber Security Training - Hacker School (2025)
-- ✅ OWASP Security Practices & Penetration Testing
-
----
-
-## 🎯 What I'm Looking For
-
-I'm actively seeking opportunities in:
-
-- 🤖 **AI/ML Engineering** - Building production-grade AI systems
-- 🔒 **AI Security Engineer** - Securing AI/ML systems and applications
-- ⚙️ **Backend Engineer** - Designing scalable, robust backend systems
-- 🚀 **Full-Stack Developer** - End-to-end product development
-
-**Open to:** Full-time roles, exciting projects, and collaborative opportunities
+**Training**
+- AI/ML Analyst Program — Ampcus Cyber (2025)
+- Advanced Cyber Security Training — Hacker School (2025)
+- OWASP Security Practices & Penetration Testing
 
 ---
 
-## 💡 Core Philosophy
+## Open To
+
+Full-time and project opportunities in **AI/ML Engineering**, **AI Security**, **Backend Engineering**, and **Full-Stack Development**.
+
+I'm especially interested in roles that combine applied AI with security, automation, or data pipelines.
+
+---
 
 <div align="center">
 
-> *"Build systems that solve real problems. Design security that adapts. Create AI that understands context."*
+### Let's connect
 
-**🎯 Purpose-Driven Development** • **🔒 Security-First Mindset** • **🤖 Intelligent Automation** • **🌱 Continuous Learning**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07/)
+[![Email](https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkg4433@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manja7304-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304)
 
-</div>
-
----
-
-## 📫 Let's Connect!
-
-I'm always interested in discussing:
-- 🤖 AI/ML innovations and applications
-- 🔒 Security challenges and solutions
-- 💻 Open source contributions
-- 🚀 Exciting project collaborations
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkg4433@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=manja7304&color=5B8DEE&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/manja7304?style=flat-square&color=5B8DEE&label=Followers)
-
-<br>
-
-**⚡ Available for immediate opportunities** • **🤝 Open to collaboration** • **🚀 Let's build something amazing!**
-
----
-
-<sub>💼 This profile is regularly updated with new projects and achievements</sub>
+*Available for opportunities · Open to collaboration*
 
 </div>
