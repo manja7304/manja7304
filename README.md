@@ -208,6 +208,50 @@ Architecting production **autonomous pentesting SaaS** — 60+ AI agents on Fast
 
 ## 📂 Projects
 
+### 🛡️ Cyber AI Portfolio
+
+**10 containerized, Ollama-first security AI repos** — each showcasing a distinct agent pattern (LangGraph, LangChain, CrewAI, Google ADK) with synthetic demo data, Docker quickstart, and CI.
+
+```mermaid
+flowchart TB
+  subgraph single [Single Agent]
+    P1[CVE Triage ReAct]
+    P5[Code Reflection]
+    P8[Cloud Posture ADK]
+  end
+  subgraph multi [Multi-Agent]
+    P2[SOC Supervisor]
+    P3[Pentest Plan-Execute]
+    P6[Red Team Crew]
+    P7[GRC Evidence Crew]
+    P10[IR HITL Copilot]
+  end
+  subgraph rag [RAG & Eval]
+    P4[OWASP Agentic RAG]
+    P9[Threat Intel Graph RAG]
+  end
+  Ollama[Ollama llama3.2] --> single
+  Ollama --> multi
+  Ollama --> rag
+```
+
+| # | Project | Framework | Pattern | Domain | Repo |
+|:-:|:--------|:----------|:--------|:-------|:-----|
+| 1 | CVE Triage ReAct | LangGraph | ReAct + Tool Calling | CVE prioritization | [cyber-cve-triage-react](https://github.com/manja7304/cyber-cve-triage-react) |
+| 2 | SOC Analyst Supervisor Swarm | LangGraph | Supervisor / Router | SIEM alert investigation | [soc-analyst-supervisor-swarm](https://github.com/manja7304/soc-analyst-supervisor-swarm) |
+| 3 | Pentest Plan-Execute Orchestrator | LangGraph | Plan-and-Execute + Checkpointing | Assessment workflows | [pentest-plan-execute-orchestrator](https://github.com/manja7304/pentest-plan-execute-orchestrator) |
+| 4 | OWASP Agentic RAG Assistant | LangChain | Agentic RAG + RAGAS | OWASP/WSTG policy Q&A | [owasp-agentic-rag-assistant](https://github.com/manja7304/owasp-agentic-rag-assistant) |
+| 5 | Secure Code Reflection Reviewer | LangChain | Reflection / Self-Critique | SAST-style code review | [secure-code-reflection-reviewer](https://github.com/manja7304/secure-code-reflection-reviewer) |
+| 6 | Red Team Strike Crew | CrewAI | Role-based Crew | Recon → advisory report | [redteam-strike-crew](https://github.com/manja7304/redteam-strike-crew) |
+| 7 | GRC Evidence Collection Crew | CrewAI | Sequential Crew | Multi-cloud compliance evidence | [grc-evidence-collection-crew](https://github.com/manja7304/grc-evidence-collection-crew) |
+| 8 | Cloud Posture ADK Agent | Google ADK | Tool Calling (ADK) | CSPM misconfiguration detection | [cloud-posture-adk-agent](https://github.com/manja7304/cloud-posture-adk-agent) |
+| 9 | Threat Intel Graph RAG | LangGraph + LangChain | Graph RAG + Hybrid Retrieval | Threat intel correlation | [threat-intel-graph-rag](https://github.com/manja7304/threat-intel-graph-rag) |
+| 10 | Incident Response HITL Copilot | LangGraph | Human-in-the-Loop + Memory | IR playbook execution | [incident-response-hitl-copilot](https://github.com/manja7304/incident-response-hitl-copilot) |
+
+> `docker compose up` · synthetic demo data only · no live scanning without authorization
+
+---
+
 ### 🤖 AI / ML Engineering
 
 | Project | Description | Link |
