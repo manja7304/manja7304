@@ -257,7 +257,8 @@ flowchart TB
 | 9 | Threat Intel Graph RAG | NetworkX + LangChain | Graph RAG + Hybrid Retrieval | 3-node graph | Threat intel correlation | [threat-intel-graph-rag](https://github.com/manja7304/threat-intel-graph-rag) |
 | 10 | Incident Response HITL Copilot | LangGraph | Human-in-the-Loop + Audit Log | 2 proposed actions | IR playbook execution | [incident-response-hitl-copilot](https://github.com/manja7304/incident-response-hitl-copilot) |
 
-> Every repo: `docker compose up` → `curl POST /api/v1/agent/run` · synthetic data only · full architecture diagrams & eval metrics in README
+> Every repo: `docker compose up` → `curl POST /api/v1/agent/run` · synthetic data only · full architecture diagrams & eval metrics in README  
+> **Demo walkthroughs:** each repo includes [`demos/WALKTHROUGH.md`](https://github.com/manja7304/cyber-ai-project-template/blob/main/demos/WALKTHROUGH.md) with captured live API output and `python scripts/run_demo.py` for offline Loom recording (`USE_MOCK_LLM=true`, no Docker/Ollama required)
 
 ---
 
