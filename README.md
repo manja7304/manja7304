@@ -8,6 +8,7 @@
 Building **production multi-agent platforms** for autonomous pentesting, LLM security, and GRC automation at **Ampcus Cyber**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-6366F1?style=for-the-badge)](https://manja7304.github.io/myPersonalPortfolio/)
+[![Cyber AI](https://img.shields.io/badge/🛡️_Cyber_AI-11_Repos-FF2D95?style=for-the-badge)](https://github.com/manja7304/cyber-ai-project-template)
 [![Blog](https://img.shields.io/badge/📝_Blog-30_Articles-00D4FF?style=for-the-badge)](https://manja7304.github.io/myPersonalPortfolio/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathkg07)
 [![CEH v13](https://img.shields.io/badge/CEH_v13_with_AI-Certified-059669?style=for-the-badge&logo=shield&logoColor=white)](#-certifications)
@@ -48,6 +49,16 @@ Building **production multi-agent platforms** for autonomous pentesting, LLM sec
 </td>
 </tr>
 </table>
+
+### 📌 Pinned Highlights
+
+| Repo | One-liner | Stack |
+|:-----|:----------|:------|
+| [cyber-ai-project-template](https://github.com/manja7304/cyber-ai-project-template) | Shared scaffold for all security AI agents | FastAPI · LangChain · Docker · Ollama |
+| [soc-analyst-supervisor-swarm](https://github.com/manja7304/soc-analyst-supervisor-swarm) | Supervisor routes 500 SIEM alerts to specialist agents | LangGraph · FastAPI |
+| [pentest-plan-execute-orchestrator](https://github.com/manja7304/pentest-plan-execute-orchestrator) | Plan-and-Execute pentest waves with checkpointing | LangGraph · SqliteSaver |
+| [owasp-agentic-rag-assistant](https://github.com/manja7304/owasp-agentic-rag-assistant) | OWASP/WSTG policy Q&A with self-correction RAG | LangChain · 25 gold Q&A |
+| [vectorshift-technical-assessment](https://github.com/manja7304/vectorshift-technical-assessment) | Visual AI pipeline builder | React · FastAPI |
 
 ---
 
@@ -176,6 +187,8 @@ Production deliverables from enterprise AI security platform engineering:
 ![Claude](https://img.shields.io/badge/Claude_Agent_SDK-412991?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-FF6B35?style=flat-square)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF6F00?style=flat-square)
 ![RAGAS](https://img.shields.io/badge/RAGAS-10B981?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-6366F1?style=flat-square)
@@ -288,6 +301,7 @@ flowchart TB
 | Project | Description | Link |
 |:--------|:------------|:-----|
 | Personal Portfolio (Live) | AI/Security portfolio + 30-article blog | [Live](https://manja7304.github.io/myPersonalPortfolio/) · [Repo](https://github.com/manja7304/myPersonalPortfolio) |
+| Deccan Valley School Website | Next.js 16 school site · React 19 · Tailwind CSS v4 | [Repo](https://github.com/manja7304/School-Website) |
 | Personal Portfolio v1 | Earlier portfolio iteration | [Repo](https://github.com/manja7304/Personal-Portfolio) |
 | GitHub Profile | Profile README & config | [Repo](https://github.com/manja7304/manja7304) |
 
@@ -296,6 +310,10 @@ flowchart TB
 | Project | Description | Link |
 |:--------|:------------|:-----|
 | C++ Practice | Competitive programming & DSA practice | [Repo](https://github.com/manja7304/Practise) |
+| Competitive Coding | STL templates & contest setup | [Repo](https://github.com/manja7304/CompetitiveCoding) |
+| LeetCode in C | DSA solutions in C | [Repo](https://github.com/manja7304/LeetCode-In-C-) |
+| Cyber Security Notes | Security learning resources & labs | [Repo](https://github.com/manja7304/Cyber-Security) |
+| Blockchain Learning | Smart contract & blockchain fundamentals | [Repo](https://github.com/manja7304/learningBlockchain) |
 
 ---
 
