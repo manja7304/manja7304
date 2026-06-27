@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" role="img" aria-label="Most Used Languages">
+  <rect width="300" height="195" rx="4.5" fill="#1a1b27"/>
+  <rect x="0.5" y="0.5" width="299" height="194" rx="4" fill="none" stroke="#30363d" stroke-opacity="0.45"/>
+  <text x="35" y="38" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="700">Most Used Languages</text>
+
+  <text x="35" y="68" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="13">Python</text>
+  <rect x="130" y="56" width="145" height="10" rx="2" fill="#30363d"/>
+  <rect x="130" y="56" width="98" height="10" rx="2" fill="#3572A5"/>
+
+  <text x="35" y="92" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="13">TypeScript</text>
+  <rect x="130" y="80" width="145" height="10" rx="2" fill="#30363d"/>
+  <rect x="130" y="80" width="52" height="10" rx="2" fill="#3178c6"/>
+
+  <text x="35" y="116" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="13">JavaScript</text>
+  <rect x="130" y="104" width="145" height="10" rx="2" fill="#30363d"/>
+  <rect x="130" y="104" width="38" height="10" rx="2" fill="#f1e05a"/>
+
+  <text x="35" y="140" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="13">HTML</text>
+  <rect x="130" y="128" width="145" height="10" rx="2" fill="#30363d"/>
+  <rect x="130" y="128" width="28" height="10" rx="2" fill="#e34c26"/>
+
+  <text x="35" y="164" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="13">Shell</text>
+  <rect x="130" y="152" width="145" height="10" rx="2" fill="#30363d"/>
+  <rect x="130" y="152" width="18" height="10" rx="2" fill="#89e051"/>
+</svg>

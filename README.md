@@ -419,14 +419,12 @@ Technical writing on **agentic AI, LLM security, RAG, MCP, and offensive/defensi
 [![Public Repos](https://img.shields.io/badge/Public_Repos-30+-FF2D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304?tab=repositories)
 [![Cyber AI](https://img.shields.io/badge/Cyber_AI_Repos-11-059669?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/manja7304/cyber-ai-project-template)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manja7304&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF2D95&currStreakLabel=ffffff" alt="Streak stats" />
+<img src="https://raw.githubusercontent.com/manja7304/manja7304/main/assets/github-streak.svg" alt="GitHub streak stats" height="195" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manja7304&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manja7304&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top languages" />
+<img height="195" src="https://raw.githubusercontent.com/manja7304/manja7304/main/assets/github-stats.svg" alt="GitHub stats" />
+<img height="195" src="https://raw.githubusercontent.com/manja7304/manja7304/main/assets/github-top-langs.svg" alt="Top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manja7304&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&count_private=true" alt="Activity graph" />
-
-<sub>Impact metrics include public repos + private enterprise work at Ampcus Cyber · Live widgets reflect GitHub API data</sub>
 
 </div>
 

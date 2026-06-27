@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Manjunath K G GitHub Stats">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#FF2D95"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="495" height="195" rx="4.5" fill="#1a1b27"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4" fill="none" stroke="#30363d" stroke-opacity="0.45"/>
+
+  <text x="35" y="42" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" font-weight="700">Manjunath K G&apos;s GitHub Stats</text>
+
+  <!-- star -->
+  <g transform="translate(35,58)">
+    <path d="M8 2l2.2 4.5 4.9.7-3.5 3.4.8 4.9L8 13.2 3.6 15.5l.8-4.9L1 7.2l4.9-.7z" fill="#bf40bf" transform="scale(0.85)"/>
+    <text x="22" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14">Total Stars Earned:</text>
+    <text x="340" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" font-weight="700">52</text>
+  </g>
+
+  <!-- commits -->
+  <g transform="translate(35,82)">
+    <circle cx="8" cy="8" r="7" fill="none" stroke="#bf40bf" stroke-width="1.5"/>
+    <path d="M8 4v5l3 2" stroke="#bf40bf" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <text x="22" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14">Total Commits:</text>
+    <text x="340" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" font-weight="700">547</text>
+  </g>
+
+  <!-- PRs -->
+  <g transform="translate(35,106)">
+    <circle cx="5" cy="8" r="3" fill="#bf40bf"/><circle cx="13" cy="8" r="3" fill="none" stroke="#bf40bf" stroke-width="1.5"/>
+    <path d="M8 5v6M5 8h6" stroke="#bf40bf" stroke-width="1.2"/>
+    <text x="22" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14">Total PRs:</text>
+    <text x="340" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" font-weight="700">128</text>
+  </g>
+
+  <!-- issues -->
+  <g transform="translate(35,130)">
+    <circle cx="8" cy="8" r="7" fill="none" stroke="#bf40bf" stroke-width="1.5"/>
+    <text x="8" y="12" text-anchor="middle" fill="#bf40bf" font-size="11" font-weight="700">!</text>
+    <text x="22" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14">Total Issues:</text>
+    <text x="340" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" font-weight="700">64</text>
+  </g>
+
+  <!-- contributed -->
+  <g transform="translate(35,154)">
+    <rect x="2" y="3" width="12" height="10" rx="1" fill="none" stroke="#bf40bf" stroke-width="1.5"/>
+    <path d="M2 6h12" stroke="#bf40bf" stroke-width="1.5"/>
+    <text x="22" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14">Contributed to (last year):</text>
+    <text x="340" y="12" fill="#38bdae" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" font-weight="700">47</text>
+  </g>
+
+  <!-- A+ grade ring -->
+  <circle cx="410" cy="95" r="52" fill="#1a1b27" stroke="#30363d" stroke-width="4"/>
+  <circle cx="410" cy="95" r="52" fill="none" stroke="url(#ringGrad)" stroke-width="4" stroke-dasharray="280 40" stroke-linecap="round" transform="rotate(-90 410 95)" filter="url(#glow)"/>
+  <text x="410" y="108" text-anchor="middle" fill="#38bdae" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="42" font-weight="700">A+</text>
+</svg>
