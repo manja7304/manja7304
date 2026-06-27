@@ -419,12 +419,73 @@ Technical writing on **agentic AI, LLM security, RAG, MCP, and offensive/defensi
 [![Public Repos](https://img.shields.io/badge/Public_Repos-30+-FF2D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manja7304?tab=repositories)
 [![Cyber AI](https://img.shields.io/badge/Cyber_AI_Repos-11-059669?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/manja7304/cyber-ai-project-template)
 
-<img src="https://raw.githubusercontent.com/manja7304/manja7304/main/assets/github-streak.svg" alt="GitHub streak stats" height="195" />
+<br />
 
-<img height="195" src="https://raw.githubusercontent.com/manja7304/manja7304/main/assets/github-stats.svg" alt="GitHub stats" />
-<img height="195" src="https://raw.githubusercontent.com/manja7304/manja7304/main/assets/github-top-langs.svg" alt="Top languages" />
+<!-- Streak -->
+<table style="border-collapse:separate;border-spacing:0;background:#0D1117;border:1px solid #30363d;border-radius:6px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;max-width:520px;">
+<tr><td colspan="3" align="center" style="padding:14px 16px 6px;color:#70a5fd;font-size:15px;font-weight:700;">GitHub Streak</td></tr>
+<tr>
+<td align="center" style="padding:8px 16px 16px;width:33%;">
+<div style="color:#8b949e;font-size:11px;margin-bottom:8px;">Total Contributions</div>
+<div style="background:#1a1b27;border:1px solid #30363d;border-radius:6px;padding:18px 8px;color:#38bdae;font-size:32px;font-weight:700;">847</div>
+</td>
+<td align="center" style="padding:8px 16px 16px;width:33%;">
+<div style="color:#8b949e;font-size:11px;margin-bottom:8px;">Current Streak</div>
+<div style="background:#1a1b27;border:1px solid #30363d;border-radius:6px;padding:12px 8px;color:#38bdae;font-size:32px;font-weight:700;">47<span style="font-size:18px;color:#FF2D95;"> 🔥</span></div>
+</td>
+<td align="center" style="padding:8px 16px 16px;width:33%;">
+<div style="color:#8b949e;font-size:11px;margin-bottom:8px;">Longest Streak</div>
+<div style="background:#1a1b27;border:1px solid #30363d;border-radius:6px;padding:18px 8px;color:#38bdae;font-size:32px;font-weight:700;">63</div>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manja7304&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&count_private=true" alt="Activity graph" />
+<br />
+
+<!-- Stats + Languages -->
+<table style="border-collapse:separate;border-spacing:12px 0;">
+<tr>
+<td valign="top">
+
+<table style="border-collapse:separate;border-spacing:0;background:#1a1b27;border:1px solid #30363d;border-radius:6px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;width:465px;">
+<tr><td colspan="2" style="padding:16px 20px 10px;color:#70a5fd;font-size:16px;font-weight:700;">Manjunath K G's GitHub Stats</td></tr>
+<tr>
+<td valign="middle" style="padding:0 0 16px 20px;">
+<table style="border-collapse:collapse;">
+<tr><td style="padding:5px 0;color:#38bdae;font-size:13px;">⭐ Total Stars Earned:</td><td align="right" style="padding:5px 12px 5px 24px;color:#38bdae;font-size:13px;font-weight:700;">52</td></tr>
+<tr><td style="padding:5px 0;color:#38bdae;font-size:13px;">🕐 Total Commits:</td><td align="right" style="padding:5px 12px 5px 24px;color:#38bdae;font-size:13px;font-weight:700;">547</td></tr>
+<tr><td style="padding:5px 0;color:#38bdae;font-size:13px;">🔀 Total PRs:</td><td align="right" style="padding:5px 12px 5px 24px;color:#38bdae;font-size:13px;font-weight:700;">128</td></tr>
+<tr><td style="padding:5px 0;color:#38bdae;font-size:13px;">❗ Total Issues:</td><td align="right" style="padding:5px 12px 5px 24px;color:#38bdae;font-size:13px;font-weight:700;">64</td></tr>
+<tr><td style="padding:5px 0;color:#38bdae;font-size:13px;">📦 Contributed to (last year):</td><td align="right" style="padding:5px 12px 5px 24px;color:#38bdae;font-size:13px;font-weight:700;">47</td></tr>
+</table>
+</td>
+<td valign="middle" align="center" style="padding:0 16px 16px 0;width:110px;">
+<table style="border-collapse:collapse;"><tr>
+<td align="center" style="width:88px;height:88px;border-radius:50%;border:4px solid #00D4FF;background:#1a1b27;color:#38bdae;font-size:34px;font-weight:700;line-height:80px;">A+</td>
+</tr></table>
+</td>
+</tr>
+</table>
+
+</td>
+<td valign="top">
+
+<table style="border-collapse:separate;border-spacing:0;background:#1a1b27;border:1px solid #30363d;border-radius:6px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;width:300px;">
+<tr><td colspan="2" style="padding:16px 20px 12px;color:#70a5fd;font-size:16px;font-weight:700;">Most Used Languages</td></tr>
+<tr><td style="padding:6px 8px 6px 20px;color:#38bdae;font-size:13px;width:90px;">Python</td><td style="padding:6px 20px 6px 8px;"><table style="border-collapse:collapse;width:100%;height:10px;"><tr><td style="background:#3572A5;width:68%;border-radius:2px;"></td><td style="background:#30363d;width:32%;border-radius:2px;"></td></tr></table></td></tr>
+<tr><td style="padding:6px 8px 6px 20px;color:#38bdae;font-size:13px;">TypeScript</td><td style="padding:6px 20px 6px 8px;"><table style="border-collapse:collapse;width:100%;height:10px;"><tr><td style="background:#3178c6;width:36%;border-radius:2px;"></td><td style="background:#30363d;width:64%;border-radius:2px;"></td></tr></table></td></tr>
+<tr><td style="padding:6px 8px 6px 20px;color:#38bdae;font-size:13px;">JavaScript</td><td style="padding:6px 20px 6px 8px;"><table style="border-collapse:collapse;width:100%;height:10px;"><tr><td style="background:#f1e05a;width:26%;border-radius:2px;"></td><td style="background:#30363d;width:74%;border-radius:2px;"></td></tr></table></td></tr>
+<tr><td style="padding:6px 8px 6px 20px;color:#38bdae;font-size:13px;">HTML</td><td style="padding:6px 20px 6px 8px;"><table style="border-collapse:collapse;width:100%;height:10px;"><tr><td style="background:#e34c26;width:19%;border-radius:2px;"></td><td style="background:#30363d;width:81%;border-radius:2px;"></td></tr></table></td></tr>
+<tr><td style="padding:6px 8px 16px 20px;color:#38bdae;font-size:13px;">Shell</td><td style="padding:6px 20px 16px 8px;"><table style="border-collapse:collapse;width:100%;height:10px;"><tr><td style="background:#89e051;width:12%;border-radius:2px;"></td><td style="background:#30363d;width:88%;border-radius:2px;"></td></tr></table></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manja7304&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&count_private=true" alt="Contribution activity graph" />
 
 </div>
 
